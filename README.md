@@ -1,2 +1,14 @@
 # worldcup-zhwin-resource
-HTML page archive and documentation
+
+页面内容归档仓库
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件管理
+
+- HTML 文件由发布流程生成
+- README 用于保留基础说明
+
+## 维护说明
+
+页面内容会根据发布任务逐步追加，具体状态以提交记录为准。
